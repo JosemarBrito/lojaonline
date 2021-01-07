@@ -5,3 +5,6 @@ Modulo para criação de loja virtual
 [![codecov](https://codecov.io/gh/JosemarBrito/lojaonline/branch/main/graph/badge.svg?token=OUFHVR2DPW)](https://codecov.io/gh/JosemarBrito/lojaonline)
 [![Updates](https://pyup.io/repos/github/JosemarBrito/lojaonline/shield.svg)](https://pyup.io/repos/github/JosemarBrito/lojaonline/)
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/lojaonline/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/lojaonline/)
+
+config ok
+ok
