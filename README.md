@@ -6,5 +6,3 @@ Modulo para criação de loja virtual
 [![Updates](https://pyup.io/repos/github/JosemarBrito/lojaonline/shield.svg)](https://pyup.io/repos/github/JosemarBrito/lojaonline/)
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/lojaonline/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/lojaonline/)
 
-config ok
-ok
