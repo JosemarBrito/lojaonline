@@ -10,12 +10,14 @@ python-decouple = "*"
 dj-database-url = "*"
 psycopg2-binary = "*"
 update = "*"
+django-s3-folder-storage = "*"
 
 [dev-packages]
 flake8 = "*"
 pytest-django = "*"
 pytest-cov = "*"
 codecov = "*"
+sync = "*"
 
 [requires]
 python_version = "3.9"
