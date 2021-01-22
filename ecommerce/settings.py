@@ -31,6 +31,7 @@ DEBUG = config('DEBUG', cast=bool)
 
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 
+AUTH_USER_MODEL = 'base.User'
 
 # Application definition
 
@@ -168,7 +169,7 @@ if AWS_ACCESS_KEY_ID:  # pragma: no cover
     INSTALLED_APPS.append('s3_folder_storage')
     INSTALLED_APPS.append('storages')
 
-SENTRY_DSN = config('SENTRY_DSN', default=None)
+# SENTRY_DSN = config('SENTRY_DSN', default=None)
 
 # if SENTRY_DSN:
 #  sentry_sdk.init(dsn=SENTRY_DSN, integrations=[DjangoIntegration()])
