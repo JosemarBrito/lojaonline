@@ -7,3 +7,7 @@ Modulo para criação de loja virtual
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/lojaonline/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/lojaonline/)
 
 josemar
+
+Cosiderar finalizado ate makemigrations
+
+removido configuração codecov
